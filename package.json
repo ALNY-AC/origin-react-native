@@ -1,0 +1,27 @@
+{
+  "name": "origin-react-native",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALNY-AC/origin-react-native.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALNY-AC/origin-react-native/issues"
+  },
+  "homepage": "https://github.com/ALNY-AC/origin-react-native#readme",
+  "bin": {
+    "origin-react": "./index.js",
+    "orn": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.20.0",
+    "fs-extra": "^8.0.1"
+  }
+}
